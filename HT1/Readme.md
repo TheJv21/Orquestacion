@@ -1,4 +1,4 @@
-#Hoja de trabajo No. 1
+# Hoja de trabajo No. 1
 
 *Comandos para levantar la orquestación
     - docker-compose build --no-cache
