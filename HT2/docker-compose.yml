@@ -10,7 +10,7 @@ services:
       - 5432:5432
     volumes:  
       - ./dbfiles:/docker-entrypoint-initdb.d
-      - /var/postgres_data:/var/lib/postgresql/data
+      - /var/lib/postgres_data:/var/lib/postgresql/data
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: password
