@@ -4,7 +4,7 @@
 
 ```
 docker-compose build --no-cache
-docker-compose --compatibility up -d
+docker-compose up -d
 ```
 ## Comandos para bajar la orquestación
 ```
