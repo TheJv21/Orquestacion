@@ -6,7 +6,7 @@ Ubuntu 20.04 LTS
 
 Docker version 20.10.14, build a224086
 
-docker-compose version 1.28.2, build 67630359.
+docker-compose version 1.28.2, build 67630359
 
 ## Comando para instalar docker compose
 ```
